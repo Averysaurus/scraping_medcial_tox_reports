@@ -1,4 +1,4 @@
-# Hello world! This code scrapes ocr'ed .txt file CC San Francisco medical examiner documents for all standardied variables, including the case narrative language. Note that optical character recognition (OCR) can leave errors in the text it imports, so check the data source with a command-f and the term you're looking for and see if there's errors. You may also command-f index values to locate potential bugs or asymetries, this code functions on 1044 sample documents, circa 2006-2012. ~AR
+# The following code scrapes ocr'ed .txt from CC San Francisco medical examiner documents for all standardied variables, including the case narrative language. Note that optical character recognition (OCR) can leave errors in the text it imports, so check the data source with a command-f and the term you're looking for and see if there's errors. You may also command-f index values to locate potential bugs or asymetries, this code functions on 1044 sample documents, circa 2005-2012. ~AR
 
 
 library(plyr)
